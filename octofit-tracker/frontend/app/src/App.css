@@ -1,0 +1,36 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
+h2, h3, h4 {
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.table {
+  margin-top: 1rem;
+  background: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.card {
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  margin: 0.2rem;
+}
+
+.modal-content {
+  border-radius: 0.5rem;
+}
